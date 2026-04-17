@@ -6,10 +6,10 @@ Interactive CLI tool to bulk-delete local Git branches — with a protected list
 
 ```bash
 # From npm (once published)
-npm install -g git-branch-cleaner
+npm install -g git-branch-cleaner-cli
 
 # Or use directly with npx
-npx git-branch-cleaner
+npx git-branch-cleaner-cli
 ```
 
 ## Usage
