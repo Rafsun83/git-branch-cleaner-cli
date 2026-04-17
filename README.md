@@ -1,4 +1,4 @@
-# git-branch-cleaner 🌿
+# git-branch-cleaner-cli 🌿
 
 Interactive CLI tool to bulk-delete local Git branches — with a protected list so you never accidentally remove `main`, `prod`, or your important branches.
 
