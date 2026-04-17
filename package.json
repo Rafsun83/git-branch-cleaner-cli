@@ -1,0 +1,26 @@
+{
+  "name": "git-branch-cleaner-cli",
+  "version": "1.0.1",
+  "description": "Interactive CLI to bulk-delete local Git branches with a protected list",
+  "bin": {
+    "git-cleaner": "./bin/cli.js"
+  },
+  "main": "./bin/cli.js",
+  "scripts": {
+    "start": "node ./bin/cli.js"
+  },
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "inquirer": "^9.2.12"
+  },
+  "keywords": [
+    "git",
+    "branch",
+    "cleanup",
+    "cli"
+  ],
+  "license": "MIT",
+  "engines": {
+    "node": ">=16"
+  }
+}
