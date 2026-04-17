@@ -1,6 +1,14 @@
 {
   "name": "git-branch-cleaner-cli",
-  "version": "1.0.3",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Rafsun83/git-branch-cleaner-cli"
+  },
+  "homepage": "https://github.com/Rafsun83/git-branch-cleaner-cli#readme",
+  "bugs": {
+    "url": "https://github.com/Rafsun83/git-branch-cleaner-cli/issues"
+  },
+  "version": "1.0.4",
   "description": "Interactive CLI to bulk-delete local Git branches with a protected list",
   "bin": {
     "git-cleaner": "./bin/cli.js"
