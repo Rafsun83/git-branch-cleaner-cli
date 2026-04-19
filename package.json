@@ -8,7 +8,7 @@
   "bugs": {
     "url": "https://github.com/Rafsun83/git-branch-cleaner-cli/issues"
   },
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "Interactive CLI to bulk-delete local Git branches with a protected list",
   "bin": {
     "git-cleaner": "./bin/cli.js"

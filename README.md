@@ -47,7 +47,7 @@ You can also edit it directly:
 
 ```json
 {
-  "protected": ["main", "prod", "test-1", "test-2"]
+  "protected": ["main", "prod", "dev"]
 }
 ```
 
